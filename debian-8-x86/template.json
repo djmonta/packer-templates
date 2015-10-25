@@ -85,7 +85,7 @@
             ],
             "boot_wait": "10s",
             "disk_size": 20480,
-            "guest_os_type": "debian6",
+            "guest_os_type": "debian8",
             "http_directory": "http",
             "iso_checksum": "27e88991ef6b4a7c9f929522a6833f1d",
             "iso_checksum_type": "md5",
